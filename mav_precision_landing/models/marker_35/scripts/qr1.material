@@ -1,0 +1,323 @@
+material qr1/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr1.png
+        }
+    }   
+  }
+}
+material qr2/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr2.png
+        }
+    }   
+  }
+}
+material qr3/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr3.png
+        }
+    }   
+  }
+}
+material qr4/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr4.png
+        }
+    }   
+  }
+}
+material qr5/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr5.png
+        }
+    }   
+  }
+}
+material qr6/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr6.png
+        }
+    }   
+  }
+}
+material qr7/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr7.png
+        }
+    }   
+  }
+}
+material qr8/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr8.png
+        }
+    }   
+  }
+}
+material qr9/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr9.png
+        }
+    }   
+  }
+}
+material qr10/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr10.png
+        }
+    }   
+  }
+}
+material qr11/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr11.png
+        }
+    }   
+  }
+}
+material qr12/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr12.png
+        }
+    }   
+  }
+}
+material qr13/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr13.png
+        }
+    }   
+  }
+}
+material qr14/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr14.png
+        }
+    }   
+  }
+}
+material qr15/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr15.png
+        }
+    }   
+  }
+}
+material qr16/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr16.png
+        }
+    }   
+  }
+}
+material qr17/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr17.png
+        }
+    }   
+  }
+}
+material qr18/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr18.png
+        }
+    }   
+  }
+}
+material qr19/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr19.png
+        }
+    }   
+  }
+}
+
+material qr20/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr20.png
+        }
+    }   
+  }
+}
+material qr21/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr21.png
+        }
+    }   
+  }
+}
+material qr22/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture qr22.png
+        }
+    }   
+  }
+}
+material delete/diffuse
+{
+  recieve_shadows off
+  technique
+  {
+    pass
+    {
+        texture_unit
+        {
+            texture dalate.jpeg
+        }
+    }   
+  }
+}
