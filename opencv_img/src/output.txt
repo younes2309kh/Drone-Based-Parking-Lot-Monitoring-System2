@@ -1,0 +1,2 @@
+Place 1 is empty !
+Place 2 is empty !
